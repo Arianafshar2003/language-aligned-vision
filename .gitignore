@@ -1,0 +1,41 @@
+# Data files - DO NOT COMMIT
+*.npy
+*.hdf5
+*.hdf
+*.mgz
+*.pth
+*.pt
+*.jpg
+*.png
+*.jpeg
+*.csv
+*.tsv
+
+# Output folders
+outputs/
+outputs2/
+subj*/
+*_all/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Torch cache
+torch_hub_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
