@@ -34,6 +34,4 @@ cd ipm_final
 pip install -r requirements.txt
 
 ## Contact
-
-- **Karim Rajaei** — [rajaei.k@ipm.ir](mailto:rajaei.k@ipm.ir)
 - **Arian Afshar** — [aryanafshar1382@gmail.com](mailto:aryanafshar1382@gmail.com) / [arian.afshar@ipm.ir](mailto:arian.afshar@ipm.ir)
