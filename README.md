@@ -29,7 +29,11 @@ This repository implements voxelwise encoding models and variance partitioning a
 
 ## Installation
 
-```bash
-git clone https://github.com/yourusername/scene-relational-fMRI.git
-cd scene-relational-fMRI
+git clone https://github.com/arianafshar2003/language-aligned-vision.git
+cd ipm_final
 pip install -r requirements.txt
+
+## Contact
+
+- **Karim Rajaei** — [rajaei.k@ipm.ir](mailto:rajaei.k@ipm.ir)
+- **Arian Afshar** — [aryanafshar1382@gmail.com](mailto:aryanafshar1382@gmail.com) / [arian.afshar@ipm.ir](mailto:arian.afshar@ipm.ir)
